@@ -47,8 +47,3 @@ echo "Starting K8s APT Config"
     {
     sudo apt install -y docker-ce
     }
-echo Run this after script !!!!!!!
-echo  {
-echo     sudo gpasswd -a cloudadm docker
-echo     newgrp docker
-echo  }
